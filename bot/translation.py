@@ -50,9 +50,9 @@ Maintained By: @Hyetelegram
     
 <b>➥ Creator</b> : <b><i><a href=https://t.me/Hyetelegram">AlbertEinstein_TG</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ movie Group</b> : <code>sorry its private now</code>
 
-<b>➥ Library</b> : <i><a href=https://t.me/Oomban_OllaTh </a></i>
+<b>➥ asgradians official channel</b> : <i><a href=https://t.me/joinchat/3LnMXkDpe1MzMDU1</a></i>
 
 <b>➥ Source Code</b> : <i><a href=https://t.me/Oomban_OllaTh">Click Me</a></i>
 """
